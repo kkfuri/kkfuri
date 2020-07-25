@@ -1,4 +1,4 @@
-### Hi there 👋
+![sky](https://images.unsplash.com/photo-1588826967064-3cb37f328a7c?raw=true)
 
 <!--
 **kkfuri/kkfuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
