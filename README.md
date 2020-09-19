@@ -1,5 +1,3 @@
-[personal website](https://kkfuri.now.sh/)
-
 ![sky](https://images.unsplash.com/photo-1588826967064-3cb37f328a7c?raw=true)
 
 <!--
